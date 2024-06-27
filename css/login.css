@@ -1,0 +1,8 @@
+
+body{
+    display: flexbox;
+    justify-content: center;
+    background-image: url(img/door.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
